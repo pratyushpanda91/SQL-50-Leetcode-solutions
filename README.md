@@ -8,13 +8,13 @@ This repository contains my solutions to the most common and essential SQL probl
 This project aims to:
 - Solve all 50 SQL problems from LeetCode.
 - Provide clean, efficient and well-managed SQL solutions.
-- Share insights for each problem.
+- Share day and problem count for each problem.
 
 ## 🚀 Structure of the Repository
 
 Each solution is organized as follows:
 - **Problem Title:** Matches the problem name on LeetCode.
-- **Solution:** The SQL query with comments explaining the logic.d.
+- **Solution:** The SQL query with comments explaining the logic in hard questions.
 
 ## Author
 
